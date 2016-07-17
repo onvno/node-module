@@ -119,7 +119,11 @@ exports.findSync = function (nameRe, startPath) {
 
 在查找资料过程中，可以选择使用一些异步库`sdync `简化代码。
 
+[简单示例地址](https://github.com/onvno/node-module)
+
+
 参考：
 
 [node-js-in-practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/ref=sr_1_1?ie=UTF8&qid=1468752014&sr=8-1&keywords=node+js+in+practice)
+
 
