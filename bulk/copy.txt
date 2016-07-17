@@ -1,0 +1,2 @@
+The fs module also provides a couple of mechanisms for watching files (fs.watch and fs.watchFile). This is useful when you want to know if a file has changed in some way. fs.watch uses the underlying operating system’s notifications, making it very efficient. But fs.watch can be finicky or simply not work on network drives. For those situations, the less-efficient fs.watchFile method, which uses stat polling, can be used.
+We’ll look more at file watching later on in this chapter.
