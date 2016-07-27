@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Dosis Light'), local('Dosis-Light'), url(http://fonts.gstatic.com/l/font?kit=_heBjgX00TMrvb2CL4RvdjmqRUYxfaf49MfNvu4qEWc&skey=a88ea9d907460694&v=v4) format('woff2');
+}
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Dosis Medium'), local('Dosis-Medium'), url(http://fonts.gstatic.com/l/font?kit=UT86DcYRQhh5qPChxekj6TmqRUYxfaf49MfNvu4qEWc&skey=21884fc543bb1165&v=v4) format('woff2');
+}
